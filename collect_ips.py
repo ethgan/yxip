@@ -5,7 +5,8 @@ import os
 
 # 目标URL列表
 urls = ['https://monitor.gacjie.cn/page/cloudflare/ipv4.html', 
-        'https://ip.164746.xyz'
+        'https://ip.164746.xyz','https://stock.hostmonit.com/CloudFlareYes',
+        'https://cf.090227.xyz','https://ip.164746.xyz/'
         ]
 
 # 正则表达式用于匹配IP地址
