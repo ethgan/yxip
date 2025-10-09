@@ -1,0 +1,140 @@
+42.96.56.83:443#Vietnam-Hanoi-01
+88.135.143.159:443#Latvia-Riga-02
+31.46.42.248:443#Hungary-Budapest-03
+212.30.81.6:443#Slovenia-Ljubljana-04
+181.126.49.38:443#Paraguay-Asunción-05
+193.226.205.54:443#Hungary-Budapest-06
+193.77.81.97:443#Slovenia-Ljubljana-07
+103.113.118.6:443#Indonesia-Jakarta-08
+188.149.123.87:8181#Sweden-Stockholm-09
+95.253.143.236:443#Italy-Puglia Bari-10
+81.25.50.12:8480#Russia-Москва Moscow-11
+81.25.50.12:8481#Russia-Москва Moscow-12
+203.126.53.78:443#Singapore-Singapore-13
+83.103.36.213:443#Italy-Piemonte Turin-14
+210.19.96.163:443#Malaysia-Kuala Lumpur-15
+180.97.151.115:443#China-Jiangsu Suzhou-16
+82.67.119.68:443#France-Bretagne Rennes-17
+118.163.99.115:443#Taiwan-Taiwan Taipei-18
+211.24.97.234:8009#Malaysia-Kuala Lumpur-19
+210.169.191.161:443#Japan-Tokyo To Tokyo-20
+95.51.57.25:9443#Poland-Silesia Katowice-21
+211.25.237.139:443#Malaysia-Kuala Lumpur-22
+38.210.76.102:443#Canada-Alberta Calgary-23
+103.1.100.17:443#India-Gujarat Ahmedabad-24
+94.246.130.82:443#Poland-Silesia Katowice-25
+80.97.226.98:443#Romania-Prahova Ploieşti-26
+185.149.37.14:443#The Netherlands-Utrecht-27
+83.13.36.250:443#Poland-Podlasie Białystok-28
+121.123.182.244:8009#Malaysia-Kuala Lumpur-29
+189.39.119.69:443#Brazil-Pernambuco Recife-30
+203.236.17.77:8104#South Korea-서울특별시 Seoul-31
+94.246.130.82:5443#Poland-Silesia Katowice-32
+82.196.220.217:443#Norway-Oslo County Oslo-33
+178.115.238.253:443#Austria-Steiermark Graz-34
+95.48.178.162:11443#Poland-Silesia Katowice-35
+8.131.68.15:443#China-Beijing-36
+211.34.105.110:4443#South Korea-서울특별시 Seoul-37
+77.81.71.62:443#Romania-Bucureşti Bucharest-38
+164.160.68.11:443#Reunion-Réunion Le Tampon-39
+164.160.68.42:443#Reunion-Réunion Le Tampon-40
+203.246.113.240:443#South Korea-서울특별시 Seoul-41
+193.25.2.239:443#Poland-Lesser Poland Kraków-42
+109.231.45.250:443#Poland-Podlasie Białystok-43
+85.193.234.121:5443#Poland-Podlasie Białystok-44
+39.105.191.39:443#China-Beijing-45
+77.65.70.50:5443#Poland-Greater Poland Słupca-46
+85.158.220.164:443#Romania-Bucureşti Bucharest-47
+123.56.142.154:443#China-Beijing-48
+45.56.228.8:443#United Kingdom-England Ashford-49
+185.38.226.210:5443#Poland-Subcarpathia Rzeszów-50
+168.167.220.27:443#Botswana-South East Gaborone-51
+72.213.88.134:443#United States-Arizona Phoenix-52
+176.173.102.96:443#France-Bretagne Saint-Brieuc-53
+108.60.228.210:443#Bahamas-New Providence Nassau-54
+95.104.231.79:443#Russia-Калужская Область Kirov-55
+86.132.233.52:4433#United Kingdom-England London-56
+193.25.2.239:443#Poland-Lesser Poland Kraków-42
+109.231.45.250:443#Poland-Podlasie Białystok-43
+85.193.234.121:5443#Poland-Podlasie Białystok-44
+39.105.191.39:443#China-Beijing-45
+77.65.70.50:5443#Poland-Greater Poland Słupca-46
+85.158.220.164:443#Romania-Bucureşti Bucharest-47
+123.56.142.154:443#China-Beijing-48
+45.56.228.8:443#United Kingdom-England Ashford-49
+185.38.226.210:5443#Poland-Subcarpathia Rzeszów-50
+168.167.220.27:443#Botswana-South East Gaborone-51
+72.213.88.134:443#United States-Arizona Phoenix-52
+176.173.102.96:443#France-Bretagne Saint-Brieuc-53
+108.60.228.210:443#Bahamas-New Providence Nassau-54
+95.104.231.79:443#Russia-Калужская Область Kirov-55
+86.132.233.52:4433#United Kingdom-England London-56
+41.205.129.179:443#Namibia-Khomas Region Windhoek-57
+173.165.51.237:443#United States-Illinois Chicago-58
+84.72.72.153:443#Switzerland-Kanton Zürich Zürich-59
+91.135.75.44:443#Switzerland-Kanton Zürich Zürich-60
+194.249.231.22:443#Slovenia-Ljubljana-61
+74.103.66.18:443#United States-Maryland Baltimore-62
+160.242.47.197:444#Namibia-Khomas Region Windhoek-63
+160.242.47.197:443#Namibia-Khomas Region Windhoek-64
+74.134.161.220:443#United States-Pennsylvania Erie-65
+79.188.239.40:8443#Poland-Kujawsko-Pomorskie Toruń-66
+79.188.239.46:8443#Poland-Kujawsko-Pomorskie Toruń-67
+79.188.239.44:8443#Poland-Kujawsko-Pomorskie Toruń-68
+79.188.239.41:8443#Poland-Kujawsko-Pomorskie Toruń-69
+160.242.47.197:444#Namibia-Khomas Region Windhoek-63
+160.242.47.197:443#Namibia-Khomas Region Windhoek-64
+74.134.161.220:443#United States-Pennsylvania Erie-65
+79.188.239.40:8443#Poland-Kujawsko-Pomorskie Toruń-66
+79.188.239.46:8443#Poland-Kujawsko-Pomorskie Toruń-67
+79.188.239.44:8443#Poland-Kujawsko-Pomorskie Toruń-68
+79.188.239.41:8443#Poland-Kujawsko-Pomorskie Toruń-69
+79.188.239.45:8443#Poland-Kujawsko-Pomorskie Toruń-70
+79.188.239.42:8443#Poland-Kujawsko-Pomorskie Toruń-71
+190.145.153.94:443#Colombia-Atlantico Barranquilla-72
+79.188.239.47:8443#Poland-Kujawsko-Pomorskie Toruń-73
+184.178.223.107:443#United States-Virginia Norfolk-74
+79.188.239.43:8443#Poland-Kujawsko-Pomorskie Toruń-75
+213.241.124.228:443#Poland-Kujawsko-Pomorskie Toruń-76
+91.2.28.230:4443#Germany-Baden-Württemberg Freiburg-77
+46.235.92.149:443#Saudi Arabia-Riyadh Region Riyadh-78
+204.41.17.71:443#Canada-Ontario Toronto-79
+204.41.17.72:443#Canada-Ontario Toronto-80
+80.11.220.238:443#France-Auvergne-Rhône-Alpes Annecy-81
+178.237.108.214:443#France-Auvergne-Rhône-Alpes Lyon-82
+204.41.16.187:443#Canada-Ontario Toronto-83
+213.96.140.33:443#Spain-Pais Vasco Gasteiz / Vitoria-84
+212.243.240.120:443#Switzerland-Canton de Berne Bern-85
+70.90.108.180:443#United States-New Hampshire Concord-86
+72.212.180.54:443#United States-Arkansas Fayetteville-87
+189.129.49.161:443#Mexico-Oaxaca Santiago Juxtlahuaca-88
+148.243.232.49:443#Mexico-Distrito Federal Mexico City-89
+123.231.118.55:443#Sri Lanka-Central Province Dambulla-90
+148.243.232.51:443#Mexico-Distrito Federal Mexico City-91
+72.80.179.139:443#United States-New York New York City-92
+98.109.32.249:443#United States-New York New York City-93
+8.133.164.218:443#China-Zhejiang Shanghai-94
+82.64.46.151:443#France-Provence-Alpes-Côte d'Azur Nice-95
+139.129.230.30:443#China-Shandong Qingdao-96
+64.201.141.139:443#United States-California Los Angeles-97
+106.14.80.214:443#China-Zhejiang Shanghai-98
+35.139.204.210:443#United States-Florida St. Petersburg-99
+47.103.136.132:443#China-Zhejiang Shanghai-100
+79.139.56.178:443#Hungary-Budapest-101
+35.187.237.178:443#Singapore-Singapore-102
+106.14.150.205:443#China-Zhejiang Shanghai-103
+185.108.4.61:443#Russia-Санкт-Петербург Saint Petersburg-104
+184.184.156.99:443#United States-Rhode Island Providence-105
+165.22.60.108:443#Singapore-Singapore-106
+54.75.58.210:443#Ireland-Leinster Dublin-107
+5.178.98.214:443#India-Karnataka Bengaluru-108
+35.206.199.195:443#Taiwan-Taiwan Taipei-109
+162.55.97.61:443#Germany-Sachsen Plauen-110
+49.50.72.246:443#India-Delhi-111
+45.9.61.18:443#Germany-Bavaria Nürnberg-112
+47.107.240.185:443#China-Guangdong Shenzhen-113
+184.184.156.106:443#United States-Rhode Island Providence-114
+194.87.98.70:443#Russia-Москва Moscow-115
+138.66.66.136:443#Italy-Puglia Bari-116
+34.93.13.41:443#India-Maharashtra Mumbai-117
+51.83.77.59:443#France-Hauts-de-France Lille-118
